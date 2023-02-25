@@ -19,10 +19,10 @@ function Header() {
       </div>
       <div>
         <Link
-          href="https://www.luisvelazquez.me/"
+          href="https://www.luentertainmentdtx.com/"
           className="px-5 text-sm md:text-base bg-gray-900 text-cyan-500 flex items-center rounded-full"
         >
-          Visit our website
+          Visit our DJ's website
         </Link>
       </div>
     </header>
