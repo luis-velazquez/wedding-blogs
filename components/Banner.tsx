@@ -12,7 +12,7 @@ function Banner() {
         </h2>
       </div>
       <p className="mt-5 md:mt-2 text-gray-400 max-w-sm">
-        New product features | The latest in technology | Top 10 lists and more!
+       Top wedding songs | The latest in wedding tech | Sound & lighting solutions | Best of Vendors and More!
       </p>
     </div>
   );

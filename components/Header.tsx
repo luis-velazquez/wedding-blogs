@@ -15,14 +15,14 @@ function Header() {
           />
           {/* Go Home */}
         </Link>
-        <div>The Best Weddings In Dallas</div>
+        <div>Wedding Gents</div>
       </div>
       <div>
         <Link
           href="https://www.luentertainmentdtx.com/"
           className="px-5 text-sm md:text-base bg-gray-900 text-cyan-500 flex items-center rounded-full"
         >
-          Visit our DJ's website
+          visit our website
         </Link>
       </div>
     </header>
