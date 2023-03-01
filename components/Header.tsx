@@ -8,14 +8,14 @@ function Header() {
         <Link href="/">
           <Image
             className="rounded-full"
-            src="https://www.luisvelazquez.me/images/profile_pic.jpeg"
+            src="/images/visio_icon.png"
             width={50}
             height={50}
             alt="logo"
           />
           {/* Go Home */}
         </Link>
-        <div>Wedding Gents</div>
+        <div>VISIO Sound & Lighting</div>
       </div>
       <div>
         <Link
